@@ -1,7 +1,7 @@
 {
 "companyName": "ANamees",
-"productName": "ANamees - I wanna beat this game - Demo v0.2",
-"productVersion": "1.0",
+"productName": "ANamees - I wanna beat this game - v0.3",
+"productVersion": "v0.3",
 "dataUrl": "web.data.unityweb",
 "wasmCodeUrl": "web.wasm.code.unityweb",
 "wasmFrameworkUrl": "web.wasm.framework.unityweb",
